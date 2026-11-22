@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamber Collage\\C#\\SongApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|d:\\hamber collage\\c#\\songapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|d:\\hamber collage\\c#\\songapp\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|solutionrelative:playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|d:\\hamber collage\\c#\\songapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AA6C9C-7E47-E1FA-65C0-3FDB602E3F00}|SongApp.csproj|solutionrelative:song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Hamber Collage\\C#\\SongApp\\Song.cs",
+              "RelativeDocumentMoniker": "Song.cs",
+              "ToolTip": "D:\\Hamber Collage\\C#\\SongApp\\Song.cs",
+              "RelativeToolTip": "Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:09:21.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "D:\\Hamber Collage\\C#\\SongApp\\PlayList.cs",
+              "RelativeDocumentMoniker": "PlayList.cs",
+              "ToolTip": "D:\\Hamber Collage\\C#\\SongApp\\PlayList.cs",
+              "RelativeToolTip": "PlayList.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:10:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamber Collage\\C#\\SongApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamber Collage\\C#\\SongApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:07:23.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Hamber Collage\C#\SongApp\bin\Debug\net10.0\SongApp.exe
+D:\Hamber Collage\C#\SongApp\bin\Debug\net10.0\SongApp.deps.json
+D:\Hamber Collage\C#\SongApp\bin\Debug\net10.0\SongApp.runtimeconfig.json
+D:\Hamber Collage\C#\SongApp\bin\Debug\net10.0\SongApp.dll
+D:\Hamber Collage\C#\SongApp\bin\Debug\net10.0\SongApp.pdb
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.AssemblyInfoInputs.cache
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.AssemblyInfo.cs
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.csproj.CoreCompileInputs.cache
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.dll
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\refint\SongApp.dll
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.pdb
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.genruntimeconfig.cache
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\ref\SongApp.dll
+D:\Hamber Collage\C#\SongApp\obj\Debug\net10.0\SongApp.csproj.Up2Date
